@@ -69,7 +69,7 @@ A previsão do índice de qualidade foi feita utilizando regressão logística.
 
 ### 💡As maiores notas (9) foram atingidas exclusivamente por vinhos brancos.
 
-### 💡Os vinhos com maiores notes (8-9) apresentaram: 
+### 💡Os vinhos com maiores notas (8-9) apresentaram: 
 ####   🍷 Acidez fixada: 4,0-13,0 g/L de ácido tartárico
 ####   🍷 Acidez volátil: 0,1-0,9 g/L de ácido acético
 ####   🍷 Ácido cítrico: 0,01-0,78 mg/L de ácido cítrico
