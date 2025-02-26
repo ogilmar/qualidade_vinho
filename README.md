@@ -59,7 +59,26 @@ Eventuais compostos derivados de enxofre que estejam sob forma livre no vinho.
 
 ## Tipo de modelo utilizado para predição
 
-A previsão do índice de qualidade foi feita utilizando regressão logística.
+A previsão do índice de qualidade foi feita utilizando regressão logística. 
+
+## Insigthis 
+
+### 💡A maioria dos vinhos (tanto tinto, quanto branco) foi classificada com notas entre 5 e 6.
+
+### 💡Não foi observada a ocorrência de vinhos com nota máxima (10). 
+
+### 💡As maiores notas (9) foram atingidas exclusivamente por vinhos brancos.
+
+### 💡Os vinhos com maiores notes (8-9) apresentaram: 
+####   🍷 Acidez fixada: 4,0-13,0 g/L de ácido tartárico
+####   🍷 Acidez volátil: 0,1-0,9 g/L de ácido acético
+####   🍷 Ácido cítrico: 0,01-0,78 mg/L de ácido cítrico
+####   🍷 Açúcar residual: 0,0-20,0 g/L 
+####   🍷 Dióxido de enxofre livre: 0,0-120 mg/L
+####   🍷 Dióxido de enxofre total: 0,0-250 mg/L
+####   🍷 Densidade: 0,90-1,00 g/ml
+####   🍷 pH: 2,8-3,8
+####   🍷 Teor alcoólico: 8,0-14,0 g/ml
 
 ## Referências
 
