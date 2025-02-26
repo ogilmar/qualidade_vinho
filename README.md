@@ -12,12 +12,14 @@ A ausência de defeitos tecnológicos é a base de tudo: não há como um produt
 Se a concentração em compostos orgânicos e minerais forma e estrutura (corpo) do vinho, então a mesma está na base da sua alta qualidade intrínseca. Mas é imperativo que haja harmonia dos teores dos elementos que
 a compõem. E é por este fator que explica-se porque há poucos vinhos de qualidade realmente diferenciada: é que, quanto maior a concentração desses elementos, mais dificilmente os mesmos estarão em absoluta harmonia. Um exemplo típico é o de um tinto encorpado, que tende a ser excessivamente tânico¹.
 
-Seguindo os preceitos de qualidade definidos por critérios físico-químicos dos vinhos produzidos na regição norte de Portugal, no ano de 2009. Foram avaliados vinhos de dois tipos (Tinto e Branco) 
+Seguindo os preceitos de qualidade definidos por critérios físico-químicos dos vinhos produzidos na regição norte de Portugal, no ano de 2009. Foram avaliados vinhos de dois tipos (Tinto e Branco). Ao final da avaliação dos valores mensurados para cada variável, atribuiu-se uma escala de notas variando de 1 a 10 para a classificação da qualidade dos vinhos produzidos na região Norte de Portugal.
 
+## Fonte de dados
 
+Os dados foram obtidos por meio do portal da UC Irvine Machine Learning Repository², disponíveis em: https://archive.ics.uci.edu/dataset/186/wine+quality 
 
 ## Referências
 
 ¹ GUERRA, C. C. O que é vinho de qualidade? EMBRAPA. Disponível em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/974985/1/bonvivantv14n155p42dez2013.pdf. Acessado em: 26/02/2025. 
-
+² UC Irvine Machine Learning Repository. Disponível em: https://archive.ics.uci.edu, acessado em: 26/02/2025.
 
