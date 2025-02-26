@@ -51,13 +51,15 @@ A densidade do vinho é uma medida que indica a quantidade de sólidos dissolvid
 
 ### ⚗️ pH (pH) 
 
-O pH do vinho varia entre 2,8 e 4,5, dependendo do tipo de vinho, da casta, do cultivo e da safra. Vinhos brancos, geralmente têm um pH entre 3,0 e 3,3. Vinhos brancos de alta qualidade têm um pH entre 3,1 e 3,4 
-Vinhos tintos, geralmente, têm um pH entre 3,3 e 3,5. Vinhos tintos de alta qualidade têm um pH entre 3,3 e 3,6.
+O pH do vinho varia entre 2,8 e 4,5, dependendo do tipo de vinho, da casta, do cultivo e da safra. Vinhos brancos, geralmente têm um pH entre 3,0 e 3,3. Vinhos brancos de alta qualidade têm um pH entre 3,1 e 3,4. Vinhos tintos, geralmente, têm um pH entre 3,3 e 3,5. Vinhos tintos de alta qualidade têm um pH entre 3,3 e 3,6.
 
 ### ⚗️ Outros compostos a base de enxofre (sulfates)
 
 Eventuais compostos derivados de enxofre que estejam sob forma livre no vinho.
 
+## Tipo de modelo utilizado para predição
+
+A previsão do índice de qualidade foi feita utilizando regressão logística.
 
 ## Referências
 
