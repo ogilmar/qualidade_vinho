@@ -21,5 +21,6 @@ Os dados foram obtidos por meio do portal da UC Irvine Machine Learning Reposito
 ## Referências
 
 ¹ GUERRA, C. C. O que é vinho de qualidade? EMBRAPA. Disponível em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/974985/1/bonvivantv14n155p42dez2013.pdf. Acessado em: 26/02/2025. 
+
 ² UC Irvine Machine Learning Repository. Disponível em: https://archive.ics.uci.edu, acessado em: 26/02/2025.
 
