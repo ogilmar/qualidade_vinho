@@ -63,6 +63,8 @@ A previsão do índice de qualidade foi feita utilizando regressão logística.
 
 ## Insigthis 
 
+Com base no modelo obtido e na análise dos dados pôde-se constatar que:
+
 ### 💡A maioria dos vinhos (tanto tinto, quanto branco) foi classificada com notas entre 5 e 6.
 
 ### 💡Não foi observada a ocorrência de vinhos com nota máxima (10). 
