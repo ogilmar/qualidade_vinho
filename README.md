@@ -58,6 +58,7 @@ Vinhos tintos, geralmente, têm um pH entre 3,3 e 3,5. Vinhos tintos de alta qua
 
 Eventuais compostos derivados de enxofre que estejam sob forma livre no vinho.
 
+
 ## Referências
 
 ¹ GUERRA, C. C. O que é vinho de qualidade? EMBRAPA. Disponível em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/974985/1/bonvivantv14n155p42dez2013.pdf. Acessado em: 26/02/2025. 
