@@ -21,40 +21,40 @@ Os dados foram obtidos por meio do portal da UC Irvine Machine Learning Reposito
 
 ## Variáveis de qualidade analisadas 
 
-### Acidez Fixa (fixed_acidity)
+### ⚗️ Acidez Fixa (fixed_acidity)
 
 A acidez fixa de um vinho é a soma dos ácidos naturais presentes na bebida, como o tartárico, málico, cítrico, succínico e láctico. A acidez fixa é medida em gramas de ácido tartárico por litro. A acidez fixa é importante pois preserva as qualidades naturais do vinho, como a cor, influencia o perfil sensorial, o equilíbrio e a longevidade da bebida, enriquece a experiência gastronômica ao harmonizar com uma variedade de pratos. 
 
-### Acidez Volátil (volatile_acidity)
+### ⚗️ Acidez Volátil (volatile_acidity)
 
 A acidez volátil de um vinho é a presença de ácidos gasosos, como o ácido acético, que podem ser percebidos pelo olfato.  É formada por bactérias acéticas que oxidam o álcool em ácido acético, que é o principal composto responsável pelo aroma de vinagre. Este composto secundário que tem cheiro de removedor de esmalte ou diluente de tinta. A acidez volátil é regulamentada por lei. 
 
-### Ácido cítrico (citric_acid)
+### ⚗️ Ácido cítrico (citric_acid)
 
 O ácido cítrico é um ácido orgânico fraco que pode ser adicionado ao vinho para aumentar a acidez e dar um sabor fresco. É também usado como estabilizador para evitar névoas férricas. O ácido cítrico pode aumentar o crescimento de micróbios indesejados. Alguns tipos de bactérias podem transformar ácido cítrico em acético, o que pode ser um problema sério.
 
-### Açúcar residual (residual_sugar)
+### ⚗️ Açúcar residual (residual_sugar)
 
 O açúcar residual é o açúcar natural da uva que sobra após a fermentação do vinho. Ele é um subproduto natural do processo de fermentação e pode afetar a textura e o sabor do vinho. 
 
-### Cloretos (chlorides)
+### ⚗️ Cloretos (chlorides)
 
 O teor de cloretos pode afetar o sabor do vinho, podendo conferir um sabor salgado ao produto final.
 
-### Dióxido de enxofre livre (free_sulfur_dioxide) Dióxido de enxofre total (total_sulfur_dioxide) 
+### ⚗️ Dióxido de enxofre livre (free_sulfur_dioxide) Dióxido de enxofre total (total_sulfur_dioxide) 
 
 O dióxido de enxofre (SO2) é uma substância química que é adicionada ao vinho para conservá-lo e protegê-lo da oxidação. É também conhecido como sulfito. 
 
-### Densidade (density)
+### ⚗️ Densidade (density)
 
 A densidade do vinho é uma medida que indica a quantidade de sólidos dissolvidos no líquido, como açúcares, ácidos e outros compostos. É uma característica que influencia o sabor e aroma do vinho, além de ser importante para avaliar a qualidade e o potencial de envelhecimento. 
 
-### pH (pH) 
+### ⚗️ pH (pH) 
 
 O pH do vinho varia entre 2,8 e 4,5, dependendo do tipo de vinho, da casta, do cultivo e da safra. Vinhos brancos, geralmente têm um pH entre 3,0 e 3,3. Vinhos brancos de alta qualidade têm um pH entre 3,1 e 3,4 
 Vinhos tintos, geralmente, têm um pH entre 3,3 e 3,5. Vinhos tintos de alta qualidade têm um pH entre 3,3 e 3,6.
 
-### Outros compostos a base de enxofre (sulfates)
+### ⚗️ Outros compostos a base de enxofre (sulfates)
 
 Eventuais compostos derivados de enxofre que estejam sob forma livre no vinho.
 
