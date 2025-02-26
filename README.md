@@ -18,6 +18,6 @@ Seguindo os preceitos de qualidade definidos por critérios físico-químicos do
 
 ## Referências
 
-¹ GUERRA, C. C. O que é vinho de qualidade? EMBRAPA. Disponível em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/974985/1/bonvivantv14n155p42dez2013.pdf. Acessado em: 26/02/2009. 
+¹ GUERRA, C. C. O que é vinho de qualidade? EMBRAPA. Disponível em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/974985/1/bonvivantv14n155p42dez2013.pdf. Acessado em: 26/02/2025. 
 
 
