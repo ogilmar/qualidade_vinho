@@ -18,6 +18,14 @@ Seguindo os preceitos de qualidade definidos por critérios físico-químicos do
 
 Os dados foram obtidos por meio do portal da UC Irvine Machine Learning Repository², disponíveis em: https://archive.ics.uci.edu/dataset/186/wine+quality 
 
+## Variáveis de qualidade analisadas 
+
+### Acidez Fixa (fixed_acidity)
+
+A acidez fixa de um vinho é a soma dos ácidos naturais presentes na bebida, como o tartárico, málico, cítrico, succínico e láctico. A acidez fixa é medida em gramas de ácido tartárico por litro. A acidez fixa é importante pois preserva as qualidades naturais do vinho, como a cor, influencia o perfil sensorial, o equilíbrio e a longevidade da bebida, enriquece a experiência gastronômica ao harmonizar com uma variedade de pratos. 
+
+### 
+
 ## Referências
 
 ¹ GUERRA, C. C. O que é vinho de qualidade? EMBRAPA. Disponível em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/974985/1/bonvivantv14n155p42dez2013.pdf. Acessado em: 26/02/2025. 
